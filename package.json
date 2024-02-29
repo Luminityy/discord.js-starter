@@ -1,0 +1,14 @@
+{
+  "name": "simple-discord-bot",
+  "version": "1.0.0",
+  "description": "A basic Discord bot with three simple commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "PHV",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.0.0"
+  }
+}
